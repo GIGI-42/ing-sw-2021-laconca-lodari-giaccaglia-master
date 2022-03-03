@@ -1,0 +1,211 @@
+{
+  "playerPiece": {
+    "left": "PLAYER",
+    "right": 0
+  },
+  "lorenzoPiece": {
+    "left": "LORENZO",
+    "right": -1
+  },
+  "track": [
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 0,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 1,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 2,
+      "yPos": 2
+    },
+    {
+      "points": 1,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 2,
+      "yPos": 1
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 2,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE1",
+      "popeSpace": false,
+      "xPos": 3,
+      "yPos": 0
+    },
+    {
+      "points": 2,
+      "zone": "ZONE1",
+      "popeSpace": false,
+      "xPos": 4,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE1",
+      "popeSpace": false,
+      "xPos": 5,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE1",
+      "popeSpace": true,
+      "xPos": 6,
+      "yPos": 0
+    },
+    {
+      "points": 4,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 7,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 7,
+      "yPos": 1
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 7,
+      "yPos": 2
+    },
+    {
+      "points": 6,
+      "zone": "ZONE2",
+      "popeSpace": false,
+      "xPos": 8,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "ZONE2",
+      "popeSpace": false,
+      "xPos": 9,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "ZONE2",
+      "popeSpace": false,
+      "xPos": 10,
+      "yPos": 2
+    },
+    {
+      "points": 9,
+      "zone": "ZONE2",
+      "popeSpace": false,
+      "xPos": 11,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "ZONE2",
+      "popeSpace": true,
+      "xPos": 12,
+      "yPos": 2
+    },
+    {
+      "points": 0,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 12,
+      "yPos": 1
+    },
+    {
+      "points": 12,
+      "zone": "NORMAL",
+      "popeSpace": false,
+      "xPos": 12,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE3",
+      "popeSpace": false,
+      "xPos": 13,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE3",
+      "popeSpace": false,
+      "xPos": 14,
+      "yPos": 0
+    },
+    {
+      "points": 16,
+      "zone": "ZONE3",
+      "popeSpace": false,
+      "xPos": 15,
+      "yPos": 0
+
+    },
+    {
+      "points": 0,
+      "zone": "ZONE3",
+      "popeSpace": false,
+      "xPos": 16,
+      "yPos": 0
+    },
+    {
+      "points": 0,
+      "zone": "ZONE3",
+      "popeSpace": false,
+      "xPos": 17,
+      "yPos": 0
+    },
+    {
+      "points": 20,
+      "zone": "ZONE3",
+      "popeSpace": true,
+      "xPos": 18,
+      "yPos": 0
+    }
+  ],
+  "tiles": [
+    {
+      "victoryPoints": 2,
+      "state": "INACTIVE",
+      "zone": "ZONE1",
+      "xPos": 4,
+      "yPos": 1
+    },
+    {
+      "victoryPoints": 3,
+      "state": "INACTIVE",
+      "zone": "ZONE2",
+      "xPos": 9,
+      "yPos": 0
+    },
+    {
+      "victoryPoints": 4,
+      "state": "INACTIVE",
+      "zone": "ZONE3",
+      "xPos": 15,
+      "yPos": 1
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "table": {
+    "FINAL_PHASE": {
+      "InitialOrFinalPhaseEvent": {
+        "type": "ExecuteLeaderAction",
+        "elementsToUpdate": []
+      }
+    },
+    "MIDDLE_PHASE": {
+      "MiddlePhaseEvent": {
+        "type": "Middle",
+        "elementsToUpdate": []
+      },
+      "MoveResourceEvent": {
+        "type": "MovingResource",
+        "elementsToUpdate": []
+      }
+    },
+    "CHOOSING_POSITION_FOR_DEVCARD": {
+      "ChooseCardPositionEvent": {
+        "type": "ChoosingSpaceForDevelopmentCard",
+        "elementsToUpdate": []
+      }
+    },
+    "SETUP_PHASE": {
+      "SetupPhaseEvent": {
+        "type": "Setup",
+        "elementsToUpdate": [],
+        "currentPlayerNumber": 0
+      }
+    },
+    "CHOOSING_POSITION_FOR_RESOURCES": {
+      "MoveResourceEvent": {
+        "type": "MovingResource",
+        "elementsToUpdate": []
+      },
+      "DiscardResourcesEvent": {
+        "type": "DiscardingResources"
+      }
+    },
+    "CHOOSING_WHITEMARBLE_CONVERSION": {
+      "ChooseWhiteMarbleConversionEvent": {
+        "type": "ChoosingMarketBonus",
+        "elementsToUpdate": []
+      }
+    },
+    "CHOOSING_MARKET_LINE": {
+      "ChooseLineEvent": {
+        "type": "PuttingBallOnLine",
+        "elementsToUpdate": []
+      }
+    },
+    "IDLE": {
+      "MoveResourceEvent": {
+        "type": "MovingResource",
+        "elementsToUpdate": []
+      }
+    },
+    "CHOOSING_RESOURCE_FOR_PRODUCTION": {
+      "ChooseResourcesForProductionEvent": {
+        "type": "ChoosingResourceForProduction"
+      }
+    },
+    "INITIAL_PHASE": {
+      "InitialOrFinalPhaseEvent": {
+        "type": "ExecuteLeaderAction",
+        "elementsToUpdate": []
+      }
+    },
+    "END_PHASE": {},
+    "CHOOSING_PRODUCTION": {
+      "ToggleProductionAtPosition": {
+        "type": "TogglingForProduction"
+      },
+      "FinalProductionPhaseEvent": {
+        "type": "FinalProductionStrategy"
+      }
+    },
+    "CHOOSING_DEVELOPMENT_CARD": {
+      "ChooseCardEvent": {
+        "type": "AcquiringDevelopmentCard",
+        "elementsToUpdate": []
+      }
+    },
+    "CHOOSING_RESOURCES_FOR_DEVCARD": {
+      "ChooseResourceForCardShopEvent": {
+        "type": "PayingResourcesForDevelopmentCard",
+        "elementsToUpdate": []
+      }
+    }
+  }
+}
